@@ -55,4 +55,4 @@ consolidated_cart = consolidate_cart(cart)
   	total *= 0.9
   end
   total
-end	end
+end	
